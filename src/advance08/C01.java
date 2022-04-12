@@ -17,5 +17,7 @@ public class C01 {
         yolcu.bSayisi= scan.nextInt();
         System.out.println(yolcu.indirimliUcret());
 
+        System.out.println("emine degisiklikleri itti");
+
     }
 }
